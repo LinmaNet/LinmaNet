@@ -31,7 +31,7 @@
 
 | Linma's First Law (Law of Head) |
 |:---:|
-| S is to dipict head. |
+| S, is to dipict Head. |
 
 | Linma's Second Law (Law of Limb Posture) |
 |:---:|
@@ -39,8 +39,8 @@
 
 | Linma's Third Law (Law of Hand Shape) |
 |:---:|
-| F m b p q d, etc. are to dipict Hand Shapes. |
+| F m b p q d, etc., are to dipict Hand Shapes. |
 
 | Linma's Forth Law (Law of Trajectory) |
 |:---:|
-| L r o e are to dipict motion trajectories. |
+| L r o e, are to dipict Motion Trajectories. |
