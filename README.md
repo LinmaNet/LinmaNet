@@ -43,4 +43,9 @@
 
 | LINMA's Forth Law (Law of Trajectory) |
 |:---:|
+
+https://github.com/user-attachments/assets/ffab4c33-d38c-4789-afb1-8d74179e3317
+
+
 | L r o e, are to dipict Motion Trajectories. |
+
